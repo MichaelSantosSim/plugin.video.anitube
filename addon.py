@@ -24,7 +24,7 @@ selfAddon = xbmcaddon.Addon(id = addon_id)
 addonfolder = selfAddon.getAddonInfo('path')
 artfolder = addonfolder + '/resources/img/'
 fanart = addonfolder + '/fanart.jpg'
-baseUrl = 'http://anitubebr.biz'
+baseUrl = 'http://anitube.biz'
 
 genresMode = 1
 listEpsMode = 2
